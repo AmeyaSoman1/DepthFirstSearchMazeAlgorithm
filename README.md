@@ -1,4 +1,4 @@
-🎲 Depth-First Search Maze Solver
+🎲 ##Depth-First Search Maze Solver
 Welcome to the DFS Maze Solver! This Java program constructs a maze and navigates a green square to the end, all using a Depth-First Search algorithm. No user input needed—just sit back and let the magic unfold! 🟢
 
 🚀 Features:
